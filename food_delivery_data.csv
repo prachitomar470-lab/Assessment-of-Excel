@@ -1,0 +1,21 @@
+OrderID,Cuisine,DeliveryTime,Revenue
+O4001,Indian,35,450
+O4002,Chinese,42,520
+O4003,Italian,28,650
+O4004,Mexican,55,390
+O4005,Fast Food,38,300
+O4006,Indian,-5,500
+O4007,Chinese,65,480
+O4008,Italian,31,
+O4009,Mexican,45,420
+O4010,Fast Food,72,250
+O4011,Indian,29,700
+O4012,Chinese,50,
+O4013,Italian,40,580
+O4014,Mexican,68,350
+O4015,Fast Food,33,275
+O4016,Indian,47,620
+O4017,Chinese,36,410
+O4018,Italian,80,720
+O4019,Mexican,25,
+O4020,Fast Food,58,330
